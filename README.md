@@ -9,3 +9,6 @@ but it makes your machine high.
 
 # Caution
 This project is currently WIP.
+
+# LICENSE
+MIT
